@@ -93,14 +93,6 @@
 <img src="https://img.shields.io/badge/linkedin:  kolitoo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
-<li>
-<a href="alex2107@outlook.fr" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  kolitoo-%23EA4335.svg?style=for-the-badge&logo=outlook&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
