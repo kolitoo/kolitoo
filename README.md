@@ -17,8 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Studi Development at 42 School Paris.
+- Studying Development at 42 School Paris.
 - I’m currently open for an Internship.
 
 <br><br>
