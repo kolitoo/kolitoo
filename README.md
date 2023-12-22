@@ -17,7 +17,8 @@
 
 <br>
 
-- Studying Development at 42 School Paris.
+- I am from Paris.
+- I'm Studying Development at 42 School Paris.
 - I’m currently open for an Internship.
 
 <br><br>
