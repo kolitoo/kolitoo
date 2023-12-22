@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolitoo&hide_progress=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolitoo&show_icons=true&theme=radical)
 <!--
 **kolitoo/kolitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
