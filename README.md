@@ -16,10 +16,10 @@
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
 </p>
 
-- 💼 **Currently**: Working at **Odace+** as a Backend Developer.  
-- 🏫 **Education**: Graduate of **42 School Paris**.  
+- 💼 **Currently**: Working at **Odace** as a Full-Stack developper.  
+- 🏫 **Education**: Studied in **42 School Paris**.  
 - 🌍 **Location**: Based in **Paris, France**.  
-- 🌱 **Learning**: Constantly exploring new technologies in **DevOps, Backend, and Cloud Solutions**.  
+- 🌱 **Learning**: Constantly exploring new technologies.  
 
 <br>
 
