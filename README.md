@@ -12,22 +12,16 @@
 
 ## 🧑‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
-</p>
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
 
-- 💼 **Currently**: Working at **Odace** as a Full-Stack developper.  
-- 🏫 **Education**: Studied in **42 School Paris**.  
-- 🌍 **Location**: Based in **Paris, France**.  
-- 🌱 **Learning**: Constantly exploring new technologies.  
-
-<br>
+- 💼 **Currently**: Full-Stack Developer at **Odace**  
+- 🏫 **Education**: Studied at **42 School Paris**  
+- 🌍 **Location**: Based in **Paris, France**  
+- 🌱 **Learning**: Constantly exploring new technologies  
 
 ---
 
 ## 🚀 Tech Stack <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30">
-
-<p align="center">
 
 ### 🛠️ **Languages**
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -66,8 +60,6 @@
 
 ### 📚 **CMS & Content**
 ![Storyblok](https://img.shields.io/badge/Storyblok-%230F2A40.svg?style=for-the-badge&logo=storyblok&logoColor=white)
-
-</p>
 
 ---
 
