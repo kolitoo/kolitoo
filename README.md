@@ -46,6 +46,7 @@
 ### ☁️ **Hosting & Cloud**
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Storage](https://img.shields.io/badge/Google%20Storage-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -59,7 +60,11 @@
 ---
 
 ### 📚 **CMS & Content**
-![Storyblok](https://img.shields.io/badge/Storyblok-%230F2A40.svg?style=for-the-badge&logo=storyblok&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-FF4B2B?style=for-the-badge&logo=sendinblue&logoColor=white)
+![Intercom](https://img.shields.io/badge/Intercom-FF7C00?style=for-the-badge&logo=intercom&logoColor=white)
+![Storyblok](https://img.shields.io/badge/Storyblok-0F2A40?style=for-the-badge&logo=storyblok&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-1A73E8?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
